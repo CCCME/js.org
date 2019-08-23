@@ -299,7 +299,6 @@ var cnames_active = {
   "castyte": "castyte.github.io",
   "cats": "whoisjorge.github.io/not-cat-gifs",
   "cbm": "iamnapo.github.io/cbmjs",
-  "cccme": "cccme.github.io",
   "cebu": "javascriptcebu.netlify.com",
   "cennznet": "cennznet.github.io/cennznet-ui",
   "chaaat": "chaaat.github.io",
